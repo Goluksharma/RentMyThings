@@ -58,8 +58,9 @@ rentmything/
 
 ## Setup & Requirements
 
-- **Java 17+**
-- **Maven**
+- **Java 21+**
+- **Apache Maven**
+- **Springboot**
 - **MySQL** (or compatible database)
 
 ---
@@ -154,4 +155,4 @@ Feel free to fork and modify!
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Golu kumar Sharma](https://www.linkedin.com/in/goluksharma/)
